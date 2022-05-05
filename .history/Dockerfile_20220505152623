@@ -6,4 +6,4 @@ RUN pip install scikit-learn
 
 RUN python -V
 
-CMD [ "python", "/code/train.py" ]
+CMD [ "python", "/code/train.py" 
